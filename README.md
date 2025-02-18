@@ -16,6 +16,7 @@ Solving the problem with `Start debugging` and `Run without debugging` from the 
 
 01.Привет, Мир!  
 02.Разбор Hello World  
+*Пакет - неймспейс (логически обособленная директория с локальным именованием для группировки функций)*   
 03.Go, Go, Go  
 04.Переменные  
 05.Функции  
