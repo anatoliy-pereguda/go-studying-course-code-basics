@@ -17,7 +17,7 @@ Solving the problem with `Start debugging` and `Run without debugging` from the 
 [01](01/01.go). [Привет, Мир!](01/01.md)  
 [02](02/02.go). [Разбор Hello World](02/02.md)  
 [03](03/03.go). [Go, Go, Go](03/03.md)  
-04.Переменные  
+[04](04/04.go). [Переменные](04/04.md)  
 05.Функции  
 06.Математика и числа  
 07.Логический тип  
