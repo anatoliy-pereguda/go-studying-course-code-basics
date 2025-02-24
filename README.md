@@ -18,7 +18,7 @@ Solving the problem with `Start debugging` and `Run without debugging` from the 
 [02](02/02.go). [Разбор Hello World](02/02.md)  
 [03](03/03.go). [Go, Go, Go](03/03.md)  
 [04](04/04.go). [Переменные](04/04.md)  
-05.Функции  
+[05](05/05.go). [Функции](05/05.md)  
 06.Математика и числа  
 07.Логический тип  
 [08](08/08.go). [Строки](08/08.md)  //  
