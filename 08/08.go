@@ -8,7 +8,6 @@ import (
 	"golang.org/x/text/language"
 )
 
-// BEGIN (write your solution here)
 func Greetings(name string) string {
 	name = strings.Trim(name, " ")
 	name = strings.ToLower(name)
@@ -16,4 +15,16 @@ func Greetings(name string) string {
 	return fmt.Sprintf("Привет, %s!", name)
 }
 
-// END
+func main() {
+	// Вызываем функцию Greetings с разными именами
+	names := []string{
+		"  анна  ",  // Имя с пробелами
+		"МАРИЯ",     // Имя в верхнем регистре
+		"екатерина", // Имя в нижнем регистре
+	}
+
+	for _, name := range names {
+		result := Greetings(name)
+		fmt.Println(result)
+	}
+}
